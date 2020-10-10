@@ -1,0 +1,2 @@
+192.168.0.0 - - [08/Sep/2012:11:16:02 +0200] "GET /b.html HTTP/1.1" 200 42 "http://intranet-if.insa-lyon.fr/a.html" "UA"
+

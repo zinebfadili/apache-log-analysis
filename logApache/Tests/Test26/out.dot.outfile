@@ -1,0 +1,10 @@
+digraph {
+node0 [label="/image.jpg"];
+node1 [label="/page3.html"];
+node1 -> node0 [label="1"];
+node2 [label="/page2.html"];
+node3 [label="/page1.html"];
+node3 -> node2 [label="1"];
+node1 -> node2 [label="1"];
+node2 -> node1 [label="1"];
+}

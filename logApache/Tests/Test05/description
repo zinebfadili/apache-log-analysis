@@ -1,0 +1,1 @@
+Ce test permet de vérifier que notre programme affiche bien le message d'usage lorsqu'il est exécuté avec une option inconnue, même si le nom du fichier log d'entrée est donné.

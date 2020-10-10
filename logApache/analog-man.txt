@@ -1,0 +1,36 @@
+NOM
+     analog -- analyse de log Apache
+
+SYNOPSIS
+     analog [-e] [-t heure] [-g output.dot] input.log
+
+DESCRIPTION
+     Affiche des statistiques et produit des graphiques utiles pour l'analyse
+     du trafic sur un serveur à partir de logs Apache. Différentes options de
+     filtrage sont disponibles.  Les statistiques des 10 ressources les plus
+     demandées sont affichées.
+
+OPTIONS
+     Les options suivantes sont disponibles :
+
+     -e      Exclut les documents de type image (jpg, png, ...), CSS, et
+             JavaScript.
+
+     -t      Exclut tous les hits qui ne sont pas dans le créneau horaire
+             specifié [ heure ; heure + 1[.  L'argument heure doit être un
+             entier compris entre 0 et 23 inclus.
+
+     -g      Produit un fichier de graphe GraphViz enregistré au chemin speci-
+             fié dans output.dot de toutes les ressources.
+
+VALEURS DE RETOUR
+     Le programme analog retourne les valeurs suivantes à la fin de son exécu-
+     tion :
+
+     0       l'exécution s'est deroulée normalement.
+
+     1       le programme a rencontré une erreur (accès fichier, ...).
+
+AUTEURS
+     Écrit par Zineb Fadili et Corentin Forler
+

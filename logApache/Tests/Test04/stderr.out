@@ -1,0 +1,2 @@
+Erreur: option non reconnue ‘-X’.
+Usage: analog [-e] [-t 0-23] [-g out.dot] in.log

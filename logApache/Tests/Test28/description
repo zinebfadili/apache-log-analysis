@@ -1,0 +1,1 @@
+Ce test permet de vérifier que notre programme produit les bonnes statistiques à partir d'un fichier log donné et avec filtrage des fichiers ressources (images, JavaScript, CSS, etc.) et produit le bon fichier de sortie GraphViz.

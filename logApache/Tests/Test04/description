@@ -1,0 +1,1 @@
+Ce test permet de vérifier que notre programme affiche bien un message d'erreur indiquant la demande d'options suivie des usages lorsqu'une option non existante est demandée SANS fichier .log.

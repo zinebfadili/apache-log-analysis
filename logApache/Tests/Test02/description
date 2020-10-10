@@ -1,0 +1,1 @@
+Ce test permet de vérifier que notre programme affiche bien un message d'erreur lorsqu'il ne parvient pas à ouvrir le fichier .log fournie en argument.

@@ -1,0 +1,2 @@
+Erreur: argument manquant du nom de fichier d'entrée.
+Usage: analog [-e] [-t 0-23] [-g out.dot] in.log

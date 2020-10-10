@@ -1,0 +1,2 @@
+Erreur: trop d'arguments.
+Usage: analog [-e] [-t 0-23] [-g out.dot] in.log
