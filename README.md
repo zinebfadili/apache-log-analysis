@@ -1,3 +1,3 @@
 # log-apache
 
-Analysis of Apache logs
+C++ app to analyze Apache logs
